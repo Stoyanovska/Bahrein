@@ -1,0 +1,71 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, white, red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.country-title {
+    margin: 0 30px;
+}
+
+.nav {
+    text-align: center;
+}
+
+.link {
+    width: 200px;
+    height: auto;
+    margin: 0 25px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    background: linear-gradient(white, red);
+}
+
+.nav a {
+    color: black;
+}
+
+.nav span {
+    font-size: 18px;
+}
+
+#main-block {
+    margin: 10% 5% 0 5%;
+}
+
+#main-block p {
+    text-indent: 1.5em;
+}
+
+#main-block h1 {
+    text-align: center;
+}
+
+.image-right {
+    float: right;
+}
+
+p{
+    font-size: 20px;
+}
+
+.photo-container img {
+    width: 320px;
+    height: 250px;
+    margin: 0px 10px;
+    border: 2px solid white;
+}
+
+#map {
+    text-align: center;
+}
+
+.sight {
+    margin: 10px 0;
+}
